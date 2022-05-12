@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">L04-Reservation</string>
+    <string name="name_TextView">Name:</string>
+    <string name="enter_name_editText">Please enter your name here</string>
+    <string name="phone_number_TextView">Phone Number:</string>
+    <string name="enter_phone_number_editText">Please enter your phone number here</string>
+    <string name="size_TextView">Group Size:</string>
+    <string name="enter_size_EditText">Please enter the number of diners here</string>
+    <string name="reservation_date_TextView">Reservation Date:</string>
+    <string name="reservation_time_TextView">Reservation Time:</string>
+    <string name="smoking_area_TextView">Smoking area:</string>
+    <string name="submit_button_text">Reserve!</string>
+    <string name="reset_button_text">Reset</string>
+</resources>
