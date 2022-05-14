@@ -11,4 +11,21 @@
     <string name="smoking_area_TextView">Smoking area:</string>
     <string name="submit_button_text">Reserve!</string>
     <string name="reset_button_text">Reset</string>
+    <string name="non_Smoking">Non-Smoking</string>
+    <string name="Smoking">Smoking</string>
+    <string name="jan">January</string>
+    <string name="feb">February</string>
+    <string name="mar">March</string>
+    <string name="apr">April</string>
+    <string name="may">May</string>
+    <string name="jun">June</string>
+    <string name="jul">July</string>
+    <string name="aug">August</string>
+    <string name="sep">September</string>
+    <string name="oct">October</string>
+    <string name="nov">November</string>
+    <string name="dec">December</string>
+    <string name="day_code">AM</string>
+    <string name="night_code">PM</string>
+    <string name="wrong_reservation_time">Reservation must be after the current date/time!</string>
 </resources>
